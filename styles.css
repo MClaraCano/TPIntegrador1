@@ -24,9 +24,6 @@ a{
 }
 
 
-
-
-
 /* TARJETAS */
 
 
@@ -100,8 +97,8 @@ text-align: center;
 }
 
 .formulario{
-    margin-left: 150px;
-    margin-right: 150px;
+    margin-left: 20%;
+    margin-right: 20%;
     margin-bottom: 100px;
 }
 
